@@ -2,3 +2,5 @@
 /venv
 /detection
 /appledataset
+*.ipynb
+/.ipynb_checkpoints
