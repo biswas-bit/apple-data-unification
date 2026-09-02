@@ -11,7 +11,7 @@ The notebooks convert both sources into the same detection format. The result is
 
 ## Dataset creation method
 
-The word “curing” in the original request is treated here as **creating** the custom dataset. The process is:
+Data Curation method is applyed in order to Create a Dataset . The process is:
 
 1. Collect the source images and their matching annotations.
 2. Create `train` and `test` folders under `appledataset`.
