@@ -1,6 +1,5 @@
 .venv
 /venv
-/detection
-/appledataset
-*.ipynb
-/.ipynb_checkpoints
+*.db
+*.sqlite
+*.sqlite3
